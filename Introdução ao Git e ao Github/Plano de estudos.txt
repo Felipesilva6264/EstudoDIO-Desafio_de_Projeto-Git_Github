@@ -1,0 +1,5 @@
+Inicio a ciencia da computação
+curso de desenvolvimento de aplicações WEB
+entender a linguagem Javascript
+Aprender APIs
+Criar uma pagina WEB.
